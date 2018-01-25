@@ -10,6 +10,6 @@ for num in range(2, x):
 if primebool:
   print ("PRIME!!!!")
 else:
-  print ("not prime")
+  print ("not prime, #sadface")
 # lets see if it works
 #cross our fingers
